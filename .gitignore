@@ -1,0 +1,3 @@
+*.pyc
+*.svo
+__pycache__
